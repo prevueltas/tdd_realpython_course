@@ -1,5 +1,5 @@
 import pytest
-from ..stack.stack import Stack
+from stack.stack import Stack
 
 
 @pytest.fixture
